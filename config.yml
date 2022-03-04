@@ -10,6 +10,7 @@ buildFuture: false
 buildExpired: false
 
 googleAnalytics: G-GS3RQ4YTGB
+disqusShortname: kevinhsu7361-1
 
 minify:
   disableXML: true

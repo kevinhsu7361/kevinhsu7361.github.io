@@ -7,6 +7,7 @@ draft: false
 tags: ["first"]
 author: "Me"
 # author: ["Me", "You"] # multiple authors
+comments:  true
 showToc: true
 TocOpen: false
 draft: false
